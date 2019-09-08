@@ -45,7 +45,4 @@ Python 极客技术由一群热爱 Python 的技术人组建，专业输出高�
 
 ## 关键节点
 
-- 2019年02月25日 发一篇文章[《Java 诞生的趣事》](https://mp.weixin.qq.com/s/bsYeKXJCKT4Vr1hNzsKxvw)
-- 2019年03月18日 招募到第一个团队成员，沉默王二发表文章：[《Java：并发不易，先学会用》](https://mp.weixin.qq.com/s/OCsAO2ydI2Nz1F5cANCXfw)
-- 2019年04月05日 用户突破一万 历时39天
-- 2019年06月06日 用户突破两万 历时100天
+- 2019年02月21日 发一篇文章[《人生苦短，我用 Python》](https://mp.weixin.qq.com/s/6cv-9_oYhfycapRPTxmjmQ)
