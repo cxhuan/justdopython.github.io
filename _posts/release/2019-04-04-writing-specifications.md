@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Python 极客技术建议写作规范
+title:  Python 技术建议写作规范
 tagline: by 纯洁的微笑
 categories: 写作
 tag: 

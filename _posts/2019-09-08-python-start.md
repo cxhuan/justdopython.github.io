@@ -1,7 +1,7 @@
 ---
 layout: post
 category: python
-title: Python极客技术，正式启动
+title: Python 技术，正式启动
 tagline: by 沉默王二
 tags: 
   - python
